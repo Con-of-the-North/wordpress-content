@@ -9,15 +9,16 @@ permalink: >
 published: true
 post_date: 2018-05-20 19:33:37
 ---
-<strong>As an Attendee at Con of the North, you agree to abide by these guidelines:</strong>
+<h1><span style="font-weight: 400;">Guidelines For Attendees</span></h1>
+<span style="font-weight: 400;">As an Attendee at Con of the North, you agree to abide by these guidelines:</span>
 <ul>
- 	<li>Be courteous and polite to other attendees.</li>
- 	<li>Show up for your events. If you decide to not attend an event, return the ticket to the Registration desk so other attendees can use it.</li>
- 	<li>Similarly, don't take event tickets you aren't going to use.</li>
- 	<li>Weapons, whether real or fake, are not allowed in the convention areas.</li>
- 	<li>Parents, you are still responsible for your children while they are at the convention.</li>
- 	<li>Be kind to yourself and your fellow attendees: practice good personal hygiene during the convention weekend.</li>
- 	<li>Do not do anything illegal at the convention. Any illegal activities will be reported to the authorities.</li>
- 	<li>Don't drink and game: alcohol is not allowed in the convention areas.</li>
- 	<li>Most importantly, have fun!</li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Be courteous and polite to other attendees.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Show up for your events: If you decide to not attend an event, return the ticket to the Registration desk so other attendees can use it.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Similarly, don’t take event tickets you aren’t going to use.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Weapons, whether real or fake, are not allowed in the convention areas.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Parents, you are still responsible for your children while they are at the convention.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Be kind to yourself and your fellow attendees: practice good personal hygiene during the convention weekend.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Do not do anything illegal at the convention. Any illegal activities will be reported to the authorities.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Don’t drink and game: alcohol is not allowed in the convention areas.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Most importantly, have fun!</span></li>
 </ul>
