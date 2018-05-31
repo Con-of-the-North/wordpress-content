@@ -9,29 +9,31 @@ permalink: >
 published: true
 post_date: 2018-05-20 19:28:41
 ---
-To register onsite, visit the Registration desk.
-<h3>Prices</h3>
+<h1><span style="font-weight: 400;">Onsite Registration</span></h1>
+<h1><span style="font-weight: 400;">After January 25th, Onsite registration prices take effect.  To register onsite, visit the Registration desk at the convention.</span></h1>
+<h3><span style="font-weight: 400;">Onsite Registration Prices</span></h3>
 <table>
 <tbody>
 <tr>
-<th class="subheading" scope="row" align="right">Entire Weekend</th>
+<td><b>Entire Weekend</b></td>
 <td></td>
-<td>$40</td>
+<td><span style="font-weight: 400;">$40</span></td>
 </tr>
 <tr>
-<th class="subheading" scope="row" align="right">Friday/Saturday or Saturday/Sunday</th>
+<td><b>Friday/Saturday or Saturday/Sunday</b></td>
 <td></td>
-<td>$32</td>
+<td><span style="font-weight: 400;">$32</span></td>
 </tr>
 <tr>
-<th class="subheading" scope="row" align="right">Saturday Only</th>
+<td><b>Saturday Only</b></td>
 <td></td>
-<td>$27</td>
+<td><span style="font-weight: 400;">$27</span></td>
 </tr>
 <tr>
-<th class="subheading" scope="row" align="right">Friday or Sunday Only</th>
+<td><b>Friday or Sunday Only</b></td>
 <td></td>
-<td>$22</td>
+<td><span style="font-weight: 400;">$22</span></td>
 </tr>
 </tbody>
 </table>
+&nbsp;
