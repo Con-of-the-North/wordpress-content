@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-05-20 19:33:37
 ---
-<h1><span style="font-weight: 400;">Guidelines For Attendees</span></h1>
 <span style="font-weight: 400;">As an Attendee at Con of the North, you agree to abide by these guidelines:</span>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Be courteous and polite to other attendees.</span></li>
