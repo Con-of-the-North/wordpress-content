@@ -8,7 +8,6 @@ permalink: http://localhost/cotn/judging/
 published: true
 post_date: 2018-05-20 19:36:00
 ---
-<h1><span style="font-weight: 400;">Judging</span></h1>
 <span style="font-weight: 400;">The one thing that makes a quality games convention are the events, and Con of the North has had a wide variety of great events of all kinds over the years thanks to our Judges and Referees. Without Judges and Referees, we’d have no convention. Thank you for volunteering to run the games that make Con of the North happen!!</span>
 
 <span style="font-weight: 400;">GMs must be registered before their games will be scheduled. GMs have two registration choices, Judge or Referee.</span>
