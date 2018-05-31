@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-05-20 19:45:43
 ---
-<h1><span style="font-weight: 400;">Event Proposal Help</span></h1>
 <span style="font-weight: 400;">What do all of the categories, checkboxes, and dropdowns on the Event Proposal form mean? The following guide should help you sort them out!!</span>
 <h3><span style="font-weight: 400;">Game Types</span></h3>
 <ul>
