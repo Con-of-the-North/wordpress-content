@@ -17,8 +17,8 @@ post_date: 2018-05-20 19:33:37
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Similarly, don’t take event tickets you aren’t going to use.</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Weapons, whether real or fake, are not allowed in the convention areas.</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Parents, you are still responsible for your children while they are at the convention.</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Be kind to yourself and your fellow attendees: practice good personal hygiene during the convention weekend.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Be kind to yourself and your fellow attendees; practice good personal hygiene during the convention weekend.</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Do not do anything illegal at the convention. Any illegal activities will be reported to the authorities.</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Don’t drink and game: alcohol is not allowed in the convention areas.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Don’t drink and game; alcohol is not allowed in the convention areas.</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Most importantly, have fun!</span></li>
 </ul>
