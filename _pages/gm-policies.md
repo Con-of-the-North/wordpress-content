@@ -8,7 +8,6 @@ permalink: http://localhost/cotn/gm-policies/
 published: true
 post_date: 2018-05-20 19:43:43
 ---
-<h1><span style="font-weight: 400;">GM Policies</span></h1>
 <span style="font-weight: 400;">As a Judge or Referee at Con of the North 2019, you agree to abide by these guidelines:</span>
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">Be courteous and polite to all attendees.</span></li>
