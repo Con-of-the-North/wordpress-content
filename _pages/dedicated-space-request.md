@@ -9,9 +9,8 @@ permalink: >
 published: true
 post_date: 2018-05-20 19:46:57
 ---
-<h1><span style="font-weight: 400;">Dedicated Space Request</span></h1>
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Dedicated space is available on a limited basis to individual GMs, companies, organizations, and gaming groups, including organized or social/informal groups of GMs. If you would like to request a dedicated space for your events, please follow the steps below.</span></li>
+ 	<li><span style="font-weight: 400;">Dedicated space is available on a limited basis to individual GMs, companies, organizations, and gaming groups, including organized or social/informal groups of GMs. If you would like to request a dedicated space for your events, please follow the steps below.</span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">We’ve made some changes to clarify the process, make the dedicated space program more flexible, while ensuring our hotel spaces are allocated in the best possible way.</span></li>
  	<li style="font-weight: 400;"><b>Step 1: Register for the convention</b></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">All GMs must be registered with the convention as either a Judge or Referee before the event submission deadline. If your group has special concerns regarding this, please contact us. All GMs must agree to Con of the North’s GM Policies, Code of Conduct and Harassment Policy.</span></li>
