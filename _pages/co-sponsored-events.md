@@ -9,6 +9,7 @@ permalink: >
 published: true
 post_date: 2018-05-20 19:48:11
 ---
-Have an idea for an event that you think should be put on by the convention? Email us at <a href="mailto:info@conofthenorth.org">info@conofthenorth.org</a> so we can discuss your idea.
+<h1><span style="font-weight: 400;">Co-Sponsored Events</span></h1>
+<span style="font-weight: 400;">Have an idea for an event that you think should be put on by the convention? Email us at </span><span style="font-weight: 400;">info@conofthenorth.org</span><span style="font-weight: 400;"> so we can discuss your idea.</span>
 
 &nbsp;
