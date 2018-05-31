@@ -8,7 +8,6 @@ permalink: http://localhost/cotn/event-tickets/
 published: true
 post_date: 2018-05-20 19:30:21
 ---
-<h1><span style="font-weight: 400;">Event Tickets</span></h1>
 <span style="font-weight: 400;">Event Tickets are not available yet, but event registration opens on November 18th, 2018. You’ll use the same </span><a href="https://registration.conofthenorth.org/"><span style="font-weight: 400;">registration</span></a><span style="font-weight: 400;"> website you used to register for the convention to register for your games.The event ticket selection process is split in to 2 phases.</span>
 <h3><span style="font-weight: 400;">Phase 1 – Event Preselection</span></h3>
 <span style="font-weight: 400;">The first phase of event selection, which we’re calling Event Preselection, will open November 18th and will close at the end of December. In this phase, you’ll have the ability to select up to 20 events that you’re interested in attending, and they will be placed in a ranked order that you set.  The events you are most interested in attending should be set near the top (Rank 1) and less important events should have higher numbers.</span>
