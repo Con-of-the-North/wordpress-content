@@ -9,36 +9,53 @@ permalink: >
 published: true
 post_date: 2018-05-20 19:46:57
 ---
-There are two ways a GM or group of GMs are able to reserve a dedicated space for their events for the whole convention. A space consists of one or more tables. If more than one table is requested the following policies apply to each table separately.
-
-The following are requirements of either option:
+<h1><span style="font-weight: 400;">Dedicated Space Request</span></h1>
 <ul>
- 	<li>The GM must <a href="mailto:info@conofthenorth.org">contact the convention</a> prior to submitting anything.</li>
- 	<li>For requests that will have multiple GMs, one GM must be designated as the primary contact for the group and will be responsible for all communications and submissions for the request.</li>
- 	<li>After consultation with Programming, the GM must submit a space proposal form that lists all of the events/GMs that will use the space.</li>
- 	<li>The game proposal forms for each event must all be submitted at the same time as the space proposal together in a single packet by the game submission deadline. Programming will work with the contact GM to determine the best method for submitting the events together.</li>
- 	<li>All GMs must be registered with the convention as either a Judge or Referee. Ideally all GMs will be registered by the event submission deadline. However if there are groups that need to organize volunteers, alternate timelines can be worked out with Programming. The contact GM must be registered by the event submission deadline regardless and should work to ensure that their other GMs are registered as soon as possible.</li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Dedicated space is available on a limited basis to individual GMs, companies, organizations, and gaming groups, including organized or social/informal groups of GMs. If you would like to request a dedicated space for your events, please follow the steps below.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">We’ve made some changes to clarify the process, make the dedicated space program more flexible, while ensuring our hotel spaces are allocated in the best possible way.</span></li>
+ 	<li style="font-weight: 400;"><b>Step 1: Register for the convention</b></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">All GMs must be registered with the convention as either a Judge or Referee before the event submission deadline. If your group has special concerns regarding this, please contact us. All GMs must agree to Con of the North’s GM Policies, Code of Conduct and Harassment Policy.</span></li>
+ 	<li style="font-weight: 400;"><b>Step 2: Decide what space you need</b></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Dedicated space can be requested in two ways: Dedicated table(s) or dedicated room. For either option, a minimum number of hours per table must be met in order to be considered for a dedicated space. Locations and rooms will be awarded based on the number of tables requested.</span></li>
+ 	<li style="font-weight: 400;"><b><i>Option 1:</i></b><span style="font-weight: 400;"> Table(s) per day</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">You can request a table or set of tables for your events, for any single day or combination of days of the convention. The table(s) may or may not be in a room shared with other convention events. The GM/group must run events on each table requested for a minimum of:</span></li>
 </ul>
-The first option is the non-pay option. It has the following requirements:
 <ul>
- 	<li>The space must have games scheduled for at least 85% of the convention. <strong>Any type or combination of types of games may be used</strong> to fulfill the hour requirement.</li>
- 	<li>For spaces that have ticketed events, all events must follow the convention's schedule/ticket policies and must be listed in the events book.</li>
- 	<li>For spaces that have non-ticketed events (like most All-Con events) the GM must submit a description of the event(s) taking place in the space along with a schedule of when the event will be running and the name of the GM(s) running it. These non-ticketed events must also be scheduled for at least 85% of the con.</li>
- 	<li>Other events may be scheduled in the space when it is not being used by the group, based on the needs of the convention.</li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">10 hours (5 time slots) on Friday</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">12 hours (6 time slots) on Saturday</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">10 hours (5 time slots) on Sunday</span></li>
 </ul>
-The second option is the pay option. It has the following requirements:
 <ul>
- 	<li>The GM pays the convention to reserve the space for the entire convention.</li>
- 	<li>This also allows the GM to use the space however they want.</li>
- 	<li>Games do not have to be scheduled/ticketed, but are still only open to paid con attendees. (Those wearing a Player, Judge, or Vendor badge.)</li>
- 	<li>The GM may submit game proposals for any scheduled games they would like to have in the space. These games must follow the same procedures and deadlines as any other event to be included in the Events Book.</li>
- 	<li>They get a short blurb in the book to promote the space.</li>
- 	<li>The fee paid for this space is based on the number of tables used. For larger spaces, the number of tables used is defined as the number of tables the convention would normally place in that area, not the number of tables the group will use. The per table price is a starting point and may be increased by the convention if the group has special requests and/or if there are additional costs charged by the hotel for their setup.</li>
- 	<li>The per table fee for CotN 2019 is $150.</li>
+ 	<li style="font-weight: 400;"><b><i>Option 2:</i></b><span style="font-weight: 400;"> Table(s) and room</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">You can request room with a table or set of tables for your events. The GM/group must run 32 hours of events on each table, with a minimum number of:</span></li>
 </ul>
-<h3><a id="Theme_Rooms"></a>What Happened to Theme Rooms?</h3>
-In 2014, the convention moved to a larger hotel with a very different configuration of space. It has several small rooms that are part of the normal convention space, but they are meeting rooms rather than hotel rooms and almost all have enough space for multiple tables.
-
-In an effort to allow as many people as possible an opportunity to run their events in these smaller rooms, we introduced new options for GMs like Tracks and Dedicated Space. Groups that have run Theme Rooms in the past should be able to achieve a similar experience using the Non-Pay Dedicated Space option, but now GMs who run other types of events can get the same benefits.
-
-As always, the convention is willing to try to schedule all of a GM's events on the same tables, even if you do not meet the time requirements for a Dedicated Space. If your group would like to have your games on the same table, please <a href="mailto:conofthenorth.org">contact the convention</a> before submitting any events.
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">4 hours (2 time slots) on Friday</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">12 hours (6 time slots) on Saturday</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">4 hours (2 time slots) on Sunday</span></li>
+</ul>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">The remaining 12 hours may be scheduled any day and time available in the room.</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">If additional time or table space is needed without meeting the minimum hours, or if you’re running open (also called all-con) events, you must contact the convention and provide the reason for the time and tables requested.</span></li>
+ 	<li style="font-weight: 400;"><b>Step 3: Request the Dedicated Space</b></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Email the convention (</span><a href="mailto:info@conofthenorth.org"><span style="font-weight: 400;">info@conofthenorth.org</span></a><span style="font-weight: 400;">) prior to submitting events with the following information:</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Group Name</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Lead Coordinator’s Name</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Lead Coordinator’s Email</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Lead Coordinator’s Phone</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">If you are a company, organization, or formally organized group and wish to be listed as the event sponsor</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">The dedicated space option you are requesting</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Single table</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Multiple tables</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Room</span></li>
+</ul>
+</li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Primary type of games being run</span></li>
+</ul>
+</li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">The deadline for dedicated space requests is September 15, 2018, two weeks prior to the event submission deadline. In the interest of fairness in scheduling both our dedicated space groups and our independent GMs, we will not be able to accommodate any late requests for dedicated space.</span></li>
+ 	<li style="font-weight: 400;"><b>Step 4: Submit your events</b></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">The programming department will let you know if your request has been approved. Then when you are ready, log in to the online registration site and submit the events. The deadline to submit all events for dedicated spaces is September 29, 2018.</span></li>
+</ul>
