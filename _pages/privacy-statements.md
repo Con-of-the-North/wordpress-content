@@ -23,4 +23,4 @@ post_date: 2018-05-24 15:52:25
 
 <span style="font-weight: 400;">We reserve the right to change our privacy policy. A revised policy statement will only apply to data collected subsequent to its effective date. Any revisions will be posted at least 30 days prior to its effective date.</span>
 
-<span style="font-weight: 400;">If you have any questions or concerns about our privacy policy, please email us at </span><span style="font-weight: 400;">webmaster@conofthenorth.org</span><span style="font-weight: 400;">.</span>
+<span style="font-weight: 400;">If you have any questions or concerns about our privacy policy, please email us at </span><a href="mailto:webmaster@conofthenorth.org"><span style="font-weight: 400;">webmaster@conofthenorth.org</span></a><span style="font-weight: 400;">.</span>
