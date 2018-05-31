@@ -8,7 +8,6 @@ permalink: http://localhost/cotn/event-submission/
 published: true
 post_date: 2018-05-20 19:43:04
 ---
-<h1><span style="font-weight: 400;">Event Submission</span></h1>
 <span style="font-weight: 400;">The deadline for getting events into the Events Book is September 29, 2018. All registration and event submission is done through the </span><a href="https://registration.conofthenorth.org/"><span style="font-weight: 400;">Online Registration Site</span></a>
 
 <span style="font-weight: 400;">Questions? Drop us a line at </span><span style="font-weight: 400;">info@conofthenorth.org</span><span style="font-weight: 400;">!</span>
