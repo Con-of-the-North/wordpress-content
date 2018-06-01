@@ -8,5 +8,5 @@ permalink: http://localhost/cotn/vendors/
 published: true
 post_date: 2018-05-24 15:22:01
 ---
-<h3><span style="font-weight: 400;">Vendor Spaces</span></h3>
-<span style="font-weight: 400;">Vendor Space applications for Con of the North 2019 are not currently available. Application process is closed.</span>
+### Vendor Spaces
+Vendor Space applications for Con of the North 2019 are not currently available. Application process is closed.

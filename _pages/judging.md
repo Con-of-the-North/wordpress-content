@@ -8,16 +8,16 @@ permalink: http://localhost/cotn/judging/
 published: true
 post_date: 2018-05-20 19:36:00
 ---
-<span style="font-weight: 400;">The one thing that makes a quality games convention are the events, and Con of the North has had a wide variety of great events of all kinds over the years thanks to our Judges and Referees. Without Judges and Referees, we’d have no convention. Thank you for volunteering to run the games that make Con of the North happen!!</span>
+The one thing that makes a quality games convention are the events, and Con of the North has had a wide variety of great events of all kinds over the years thanks to our Judges and Referees. Without Judges and Referees, we’d have no convention. Thank you for volunteering to run the games that make Con of the North happen!!
 
-<span style="font-weight: 400;">GMs must be registered before their games will be scheduled. GMs have two registration choices, Judge or Referee.</span>
+GMs must be registered before their games will be scheduled. GMs have two registration choices, Judge or Referee.
 
-<span style="font-weight: 400;">Registering as a Judge costs the same as a Player registration and gives the attendee the ability to participate in other events at the convention. In addition, Judges who are fully paid and have their games submitted before the event submission deadline are eligible for a Judge’s Premium: either a discount on their registration price or a free convention t-shirt.</span>
+Registering as a Judge costs the same as a Player registration and gives the attendee the ability to participate in other events at the convention. In addition, Judges who are fully paid and have their games submitted before the event submission deadline are eligible for a Judge’s Premium: either a discount on their registration price or a free convention t-shirt.
 
-<span style="font-weight: 400;">Registering as a Referee is free, but the only thing a Referee can do is run their own events. Referees cannot participate in other convention events, nor do they receive any of the premiums that Judges receive.</span>
+Registering as a Referee is free, but the only thing a Referee can do is run their own events. Referees cannot participate in other convention events, nor do they receive any of the premiums that Judges receive.
 
-<span style="font-weight: 400;">Events will not be scheduled until after the GM is registered.</span>
+Events will not be scheduled until after the GM is registered.
 
-<span style="font-weight: 400;">To be included in the Events Book, games must be submitted by the event submission deadline (Saturday, September 29, 2018) and all Judges/Referees for the games must be fully registered by that time as well. If an Event Proposal is a little late, every reasonable effort will be made to include it in the book. However, due to the workload needed to produce the Events Book, it is not possible to guarantee that any events received after the deadline will be able to be processed and included in the book.</span>
+To be included in the Events Book, games must be submitted by the event submission deadline (Saturday, September 29, 2018) and all Judges/Referees for the games must be fully registered by that time as well. If an Event Proposal is a little late, every reasonable effort will be made to include it in the book. However, due to the workload needed to produce the Events Book, it is not possible to guarantee that any events received after the deadline will be able to be processed and included in the book.
 
-<span style="font-weight: 400;">Both Judges and Referees must agree to follow the GM Policies.</span>
+Both Judges and Referees must agree to follow the GM Policies.

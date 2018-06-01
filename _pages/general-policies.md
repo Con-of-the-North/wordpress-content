@@ -8,7 +8,7 @@ permalink: http://localhost/cotn/general-policies/
 published: true
 post_date: 2018-05-20 19:41:42
 ---
-GMs must be registered before their games will be scheduled. GMs have two registration choices, <strong>Judge</strong> or <strong>Referee</strong>.
+GMs must be registered before their games will be scheduled. GMs have two registration choices, **Judge** or **Referee**.
 
 Registering as a Judge costs the same as a Player registration and gives the attendee the ability to participate in other events at the convention. In addition, Judges who are fully paid and have their games submitted before the event submission deadline are eligible for a Judge's Premium: either a discount on their registration price or a free convention t-shirt.
 
