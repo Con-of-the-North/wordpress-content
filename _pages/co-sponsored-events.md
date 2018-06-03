@@ -9,6 +9,4 @@ permalink: >
 published: true
 post_date: 2018-05-20 19:48:11
 ---
-<span style="font-weight: 400;">Have an idea for an event that you think should be put on by the convention? Email us at </span><span style="font-weight: 400;">info@conofthenorth.org</span><span style="font-weight: 400;"> so we can discuss your idea.</span>
-
-&nbsp;
+<span style="font-weight: 400;">Have an idea for an event that you think should be put on by the convention? Email us at </span><span style="font-weight: 400;">info@conofthenorth.org</span><span style="font-weight: 400;"> so we can discuss your idea.</span>  
