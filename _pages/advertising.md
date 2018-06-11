@@ -4,7 +4,7 @@ post_title: Advertising
 author: victoria
 post_excerpt: ""
 layout: page
-permalink: http://localhost/cotn/advertising/
+permalink: http://localhost:8888/cotn/advertising/
 published: true
 post_date: 2018-05-24 15:16:40
 ---
