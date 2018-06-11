@@ -5,7 +5,7 @@ author: victoria
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/cotn/attendee-code-of-contact/
+  http://localhost:8888/cotn/attendee-code-of-contact/
 published: true
 post_date: 2018-05-24 15:39:13
 ---
