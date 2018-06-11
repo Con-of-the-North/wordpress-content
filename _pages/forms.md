@@ -4,7 +4,7 @@ post_title: Forms
 author: victoria
 post_excerpt: ""
 layout: page
-permalink: http://localhost/cotn/forms/
+permalink: http://localhost:8888/cotn/forms/
 published: true
 post_date: 2018-05-20 19:48:44
 ---
