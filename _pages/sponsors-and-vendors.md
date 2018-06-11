@@ -5,7 +5,7 @@ author: victoria
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/cotn/sponsors-and-vendors/
+  http://localhost:8888/cotn/sponsors-and-vendors/
 published: true
 post_date: 2018-05-24 15:15:10
 ---
