@@ -4,7 +4,8 @@ post_title: Hotel Information
 author: victoria
 post_excerpt: ""
 layout: page
-permalink: http://localhost/cotn/hotel-information/
+permalink: >
+  http://localhost:8888/cotn/hotel-information/
 published: true
 post_date: 2018-05-20 19:32:24
 ---
