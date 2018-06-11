@@ -5,7 +5,7 @@ author: victoria
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/cotn/event-proposal-help/
+  http://localhost:8888/cotn/event-proposal-help/
 published: true
 post_date: 2018-05-20 19:45:43
 ---
