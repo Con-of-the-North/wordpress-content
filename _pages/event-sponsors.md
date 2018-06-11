@@ -1,10 +1,11 @@
 ---
-ID: 109
+ID: 111
 post_title: Event Sponsors
 author: victoria
 post_excerpt: ""
 layout: page
-permalink: http://localhost/cotn/event-sponsors/
+permalink: >
+  http://localhost:8888/cotn/event-sponsors/
 published: true
 post_date: 2018-05-24 15:27:28
 ---
