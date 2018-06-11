@@ -4,7 +4,7 @@ post_title: Registration
 author: victoria
 post_excerpt: ""
 layout: page
-permalink: http://localhost/cotn/registration/
+permalink: http://localhost:8888/cotn/registration/
 published: true
 post_date: 2018-05-20 18:55:59
 ---
