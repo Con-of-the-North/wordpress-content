@@ -4,7 +4,7 @@ post_title: Vendors
 author: victoria
 post_excerpt: ""
 layout: page
-permalink: http://localhost/cotn/vendors/
+permalink: http://localhost:8888/cotn/vendors/
 published: true
 post_date: 2018-05-24 15:22:01
 ---
