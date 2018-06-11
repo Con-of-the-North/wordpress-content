@@ -5,7 +5,7 @@ author: victoria
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost/cotn/con-of-the-north-timeline/
+  http://localhost:8888/cotn/con-of-the-north-timeline/
 published: true
 post_date: 2018-05-20 20:01:07
 ---
