@@ -1,11 +1,11 @@
 ---
-ID: 112
+ID: 111
 post_title: About
 author: victoria
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost:8888/cotn/about-con-of-the-north/
+  http://localhost/cotn/about-con-of-the-north/
 published: true
 post_date: 2018-05-24 15:30:59
 ---

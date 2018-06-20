@@ -5,7 +5,7 @@ author: victoria
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost:8888/cotn/what-happens-at-con-of-the-north/
+  http://localhost/cotn/what-happens-at-con-of-the-north/
 published: true
 post_date: 2018-05-24 15:36:04
 ---

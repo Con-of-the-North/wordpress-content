@@ -5,7 +5,7 @@ author: victoria
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost:8888/cotn/what-is-a-game-convention/
+  http://localhost/cotn/what-is-a-game-convention/
 published: true
 post_date: 2018-05-24 15:33:48
 ---

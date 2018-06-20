@@ -5,7 +5,7 @@ author: victoria
 post_excerpt: ""
 layout: page
 permalink: >
-  http://localhost:8888/cotn/guidelines-for-attendees/
+  http://localhost/cotn/guidelines-for-attendees/
 published: true
 post_date: 2018-05-20 19:33:37
 ---
